@@ -1,0 +1,4 @@
+router-id 2
+input-ports 6401, 20000
+outputs 1034-0-3
+timer-values 3, 18, 12

@@ -1,0 +1,4 @@
+router-id 7
+input-ports 6402, 20001
+outputs 1026-1-3
+timer-values 3, 18, 12

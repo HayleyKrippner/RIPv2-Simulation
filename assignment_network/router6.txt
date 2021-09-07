@@ -1,0 +1,4 @@
+router-id 6
+input-ports 1106, 1114
+outputs 1105-5-1, 1115-1-5
+timer-values 3, 18, 12

@@ -1,0 +1,5 @@
+# Config file for router 1 of assignment network
+router-id 1
+input-ports 1102, 1104, 1105
+outputs 1101-1-2, 1103-8-7, 1106-5-6
+timer-values 3, 18, 12

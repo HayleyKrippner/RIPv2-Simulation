@@ -1,0 +1,5 @@
+router-id 2
+#this is a comment
+input-ports 5000, 7000
+outputs 6000-6-1, 8000-2-3
+timer-values 3, 18, 12
